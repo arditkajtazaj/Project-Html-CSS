@@ -554,7 +554,7 @@
         grid-template-columns: repeat(4,1fr);
         align-items: space-between;
         justify-content: center;
-        gap: 8%;
+        gap: 100px;
     }
     footer  .container .content .about {
         color: #f4ebeb;
